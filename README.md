@@ -1,2 +1,2 @@
 # simple-discord_bot
-simple bot for discord welcome & leave message
+Simple bot for discord welcome & leave message
